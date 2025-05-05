@@ -1,4 +1,4 @@
-This project presents a **Excel Dashboard** analyzing Emergency Room (ER) visits from **April 2019 to October 2020**, with a focus on identifying trends in **wait times**, **patient satisfaction**, **demographics**, and **usage patterns**.
+This project presents a **Python** analyzing Emergency Room (ER) visits from **April 2019 to October 2020**, with a focus on identifying trends in **wait times**, **patient satisfaction**, **demographics**, and **usage patterns**.
 
 ---
 
@@ -27,8 +27,8 @@ Interactive visualizations provide insights into:
 
 ## 🛠️ Tools Used
 
-- **Microsoft Excel**
-- ER visit dataset (anonymized)
+- **Python (Google Colab)**
+- ER visit dataset
 
 ---
 
